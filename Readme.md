@@ -30,7 +30,7 @@
 
 ## 安裝與使用
 
-1. 開啟瀏覽器並前往 \*\*[https://www.google.com/maps\*\*。](https://www.google.com/maps**。)
+1. 開啟瀏覽器並前往 \*\*[https://www.google.com/maps/](https://www.google.com/maps)
 2. 按下 `F12` 或 `Ctrl+Shift+I` (Windows/Linux)、`Cmd+Option+I` (macOS) 開啟開發者工具。
 3. 切換到 **Console** 分頁。
 4. 將 `compass.js` 中的整段腳本貼入並按下 `Enter`。
@@ -58,7 +58,7 @@
 
 ## 授權條款
 
-本專案採用 **WTFPL** 授權 (Do What the F\*ck You Want to Public License)。
+本專案採用 **WTFPL** 授權 (Do What the Fuck You Want to Public License)。
 
 ## 程式碼來源
 
@@ -124,7 +124,7 @@ Measuring building orientations in satellite view can be challenging. This overl
 
 ## License
 
-This project is released under the **WTFPL** (Do What the F\*ck You Want to Public License).
+This project is released under the **WTFPL** (Do What the Fuck You Want to Public License).
 
 ## Code Origin
 
